@@ -41,7 +41,7 @@ cacheSolve <- function(x=matrix(), ...) {
 }
 
 
-## Calling function
+## Calling function --> example to run the function
 ## new<-makeCacheMatrix()
 ## new$set(matrix(1:4,2,2)
 ## cacheSolve(new)
